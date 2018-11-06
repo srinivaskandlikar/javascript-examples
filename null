@@ -1,0 +1,3 @@
+var as= null;
+
+console.log(as);

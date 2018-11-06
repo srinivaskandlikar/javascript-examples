@@ -1,0 +1,11 @@
+function sf(){
+var a=1;
+console.log(a);
+}
+sf();
+
+function sa(){
+var b=2;
+console.log(a+b);
+}
+sa();

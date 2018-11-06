@@ -1,0 +1,15 @@
+function ex1(){
+fname='srinivas';
+console.log(fname);
+}
+
+
+function ex2(){
+    ex1();
+fname='kandlikar';
+ console.log(fname);
+}
+
+var fname='im out of function';
+console.log(fname);
+ex2();

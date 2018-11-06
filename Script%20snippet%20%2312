@@ -1,0 +1,7 @@
+function a(){
+ var a='srinivas';
+var b ='kandlikaadasr';
+var c= a +b;
+console.log(c);
+};
+a();

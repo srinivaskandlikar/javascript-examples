@@ -1,0 +1,6 @@
+var all={
+fname:'srinivas',
+lname:'kandlikar',
+age:25,
+}
+console.log(all.fname);

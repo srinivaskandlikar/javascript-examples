@@ -1,0 +1,12 @@
+function all(){
+var fnum=1;
+console.log(fnum);
+
+function one(){
+    var snum=2;
+    console.log(snum);
+    console.log(fnum+snum);
+}
+one();
+}
+all();

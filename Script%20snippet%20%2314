@@ -1,0 +1,8 @@
+var a;
+console.log(a);
+if(a === undefined){
+    console.log('im not declred');
+}
+else{
+    console.log('im declared');
+} 

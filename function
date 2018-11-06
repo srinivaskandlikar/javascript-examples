@@ -1,0 +1,8 @@
+console.clear();
+function a(){
+console.log('im a')
+}
+
+var e= "im srinivas kandlikar from b";
+console.log(e);
+a();

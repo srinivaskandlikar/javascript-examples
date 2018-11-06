@@ -1,0 +1,11 @@
+console.clear();
+function a(){
+console.log('my name is ');
+};
+function b(){
+    a();
+    console.log('srinivas');
+};
+b();
+var c='kandlikar';
+console.log(c);

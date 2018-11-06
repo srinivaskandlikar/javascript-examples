@@ -1,0 +1,11 @@
+function n(){
+ var h='srinivas';
+console.log(h);
+}
+n();
+
+function q(){
+var b='kandlikar';
+console.log(h+b);
+}
+q();

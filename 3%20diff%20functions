@@ -1,0 +1,17 @@
+function sri(){
+var a="srinivas kandlikar";
+console.log(a);
+}
+sri();
+
+function kan(a,b){
+return a+b;
+}
+kan('srinivas','kandlikar');
+
+function all(){
+a='im from a';
+b='im from bdassfbohohuoaf';
+return (a+' '+b);
+}
+all();

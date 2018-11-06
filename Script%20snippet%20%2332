@@ -1,0 +1,9 @@
+ myvars='srinivas';
+console.log(myvars);
+
+function sd(){
+
+console.log(myvars);
+
+}
+sd();

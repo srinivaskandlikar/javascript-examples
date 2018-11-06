@@ -1,0 +1,13 @@
+console.clear();
+function a(){
+var b=10;
+console.log(b);
+}
+function z(){ 
+a();
+var c=20;
+var e=3;
+var g=  c+e;
+console.log(g);
+}
+z();

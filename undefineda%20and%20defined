@@ -1,0 +1,9 @@
+console.clear();
+var g;
+
+if( g === undefined) {
+    console.log('no number has been assigned to me');
+}
+else {
+    console.log('im'+' '+ g);
+}

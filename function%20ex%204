@@ -1,0 +1,5 @@
+console.clear();
+function sri(a,b){
+console.log(a+b);
+}
+sri(1,2);

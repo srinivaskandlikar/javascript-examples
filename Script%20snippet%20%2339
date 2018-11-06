@@ -1,0 +1,6 @@
+function as(){
+fname='srinivas';
+lname='kandlikar';
+console.log(fname+lname);
+}
+as();

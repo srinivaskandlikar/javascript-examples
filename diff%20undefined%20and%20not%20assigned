@@ -1,0 +1,3 @@
+var h;
+console.log(h);
+console.log(l);

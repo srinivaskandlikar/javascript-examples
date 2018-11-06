@@ -1,0 +1,7 @@
+console.clear();
+ let person = {
+    firstName: 'Uma',
+    lastName: 'Mahesh',
+    city: 'Bangalore'
+}
+console.log(person);

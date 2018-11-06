@@ -1,0 +1,8 @@
+var y='srinivas kandlikar';
+console.log(y);
+if(y=== undefined){
+    console.log('im not defined');
+}
+else{
+    console.log('im defined and been called'+' '+ y);
+}

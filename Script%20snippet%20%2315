@@ -1,0 +1,6 @@
+console.clear();
+function a(){
+var sri='srinivas kandlikar';
+console.log(sri);
+}
+a();

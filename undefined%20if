@@ -1,0 +1,9 @@
+console.clear();
+var d;
+console.log(d);
+if (d === undefined){
+    console.log('im not defined');
+}
+else{
+    console.log('im decleared');
+}

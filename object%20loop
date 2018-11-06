@@ -1,0 +1,9 @@
+var all={
+    fname:'srinivas',
+    lname:'kandlikar',
+    details:{
+        age:25,
+        gender:'male'
+    }
+}
+console.log(all.details);
