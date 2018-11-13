@@ -1,0 +1,9 @@
+var all={
+fname:'srinivas',
+lname:'kasndsa',
+asf: {
+    sda:'gfdfgfdgd',
+    sgd:'sdgsgsgs',
+}
+};
+console.log(all.asf(sda));

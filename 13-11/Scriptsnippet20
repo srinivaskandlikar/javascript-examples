@@ -1,0 +1,5 @@
+function abc(name){
+    name=name||''<efgdg>'';
+console.log(name);
+}
+abc();

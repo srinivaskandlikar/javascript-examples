@@ -1,0 +1,7 @@
+function abc(all){
+console.log(all.fname);
+};
+abc({
+    fname:'srinivas',
+    lname:'kandlikar',
+});

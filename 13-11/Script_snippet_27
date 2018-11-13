@@ -1,0 +1,14 @@
+var tony={
+fname:'srinivas',
+lname:'kandlikar',
+add:{
+city:'hyd',
+state:'telangana',
+country:'india',
+}
+};
+
+function greet(name){
+console.log(name);
+}
+greet(tony.fname);

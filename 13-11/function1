@@ -1,0 +1,10 @@
+var all={
+fname:'srinivas',
+lname:'kasndsa',
+abc:function (){
+ fn='srinivas';
+ ln='kandlikar';
+return fn+ln;
+}
+};
+console.log(all.fname);

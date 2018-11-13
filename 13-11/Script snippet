@@ -1,0 +1,11 @@
+var t=5;
+var y=10;
+if(t===y){
+    console.log('afasasgsaga');
+}
+else if(t<y){
+    console.log('im less than y'+" "+t);
+}
+else{
+    console.log('im not there');
+}

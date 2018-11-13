@@ -1,0 +1,17 @@
+var person={
+fname:'srinivas',
+lname:'kandlikar',
+gender:'male',
+add:{
+city:'hyderabad',
+state:'telangana',
+country:'india',
+}
+};
+console.log(person);
+
+
+function other(all){
+console.log(all.add);
+}
+other(person);

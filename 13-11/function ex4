@@ -1,0 +1,6 @@
+function sa(){
+var fn='srinivas';
+var ln='kandlikar';
+return fn +' '+ ln;
+}
+sa();

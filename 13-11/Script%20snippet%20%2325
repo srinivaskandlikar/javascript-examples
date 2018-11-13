@@ -1,0 +1,6 @@
+function avc(){
+var a='sri';
+var b='kand';
+return a+b;
+}
+avc();

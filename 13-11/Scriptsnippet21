@@ -1,0 +1,9 @@
+var fullname={
+fname :'srinivas',
+lname :'kandlikar',
+all:{
+    address :'malakpet',
+    age:25,
+}
+};
+console.log(fullname.all);

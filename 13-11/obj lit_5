@@ -1,0 +1,5 @@
+var fnamesd='srinivas';
+function all(lname){
+console.log(lname);
+};
+all(fnamesd);

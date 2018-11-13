@@ -1,0 +1,5 @@
+function asd(a,b,c){
+    var c=-(a-b);
+    console.log(c);
+}
+asd (10,20);

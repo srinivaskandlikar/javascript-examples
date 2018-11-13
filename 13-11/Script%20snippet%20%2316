@@ -1,0 +1,14 @@
+var g=30;
+var u=20;
+var b=15;
+
+if(g<u & g<b){
+    console.log('im smaller than u and b')
+}
+else if(g<u || u>b){
+    console.log('im true')
+}
+else{
+console.log('im not there ');
+    
+}
